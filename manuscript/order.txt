@@ -5,7 +5,6 @@ front/00-title.md
 front/01-letter.md
 front/02-how-to-use.md
 front/03-necessary-word.md
-
 chapters/part-1.md
 chapters/day-01-the-day-the-number-died.md
 chapters/day-02-this-is-grief-not-weakness.md
@@ -28,3 +27,14 @@ chapters/day-17-small-wins-and-dopamine.md
 chapters/day-18-steady-under-fire.md
 chapters/day-19-endurance.md
 chapters/day-20-toughness-is-not-hardness.md
+chapters/part-3.md
+chapters/day-21-trust-rebuilt-in-tiny-deposits.md
+chapters/day-22-judge-the-decision-not-the-result.md
+chapters/day-23-seeing-it-before-it-happens.md
+chapters/day-24-the-ritual-before-the-bell.md
+chapters/day-25-when-the-next-loss-comes.md
+chapters/day-26-the-long-game.md
+chapters/day-27-who-you-are-now.md
+chapters/day-28-money-motive-and-the-soul.md
+chapters/day-29-do-not-rebuild-alone.md
+chapters/day-30-the-comeback-covenant.md
