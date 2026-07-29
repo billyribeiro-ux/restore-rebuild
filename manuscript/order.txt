@@ -8,3 +8,12 @@ front/03-necessary-word.md
 
 chapters/part-1.md
 chapters/day-01-the-day-the-number-died.md
+chapters/day-02-this-is-grief-not-weakness.md
+chapters/day-03-your-brain-on-blow-up.md
+chapters/day-04-stop-replaying-the-tape.md
+chapters/day-05-name-it-to-tame-it.md
+chapters/day-06-you-are-not-the-loss.md
+chapters/day-07-forgiving-the-trader-you-were.md
+chapters/day-08-the-honest-ledger.md
+chapters/day-09-letting-go-is-a-decision.md
+chapters/day-10-bury-it-properly.md
