@@ -17,3 +17,14 @@ chapters/day-07-forgiving-the-trader-you-were.md
 chapters/day-08-the-honest-ledger.md
 chapters/day-09-letting-go-is-a-decision.md
 chapters/day-10-bury-it-properly.md
+chapters/part-2.md
+chapters/day-11-you-are-not-finished.md
+chapters/day-12-the-fast-brain-and-the-slow-brain.md
+chapters/day-13-rewriting-the-voice-in-your-head.md
+chapters/day-14-the-power-of-words-spoken-out-loud.md
+chapters/day-15-discipline-is-a-habit.md
+chapters/day-16-rules-before-feelings.md
+chapters/day-17-small-wins-and-dopamine.md
+chapters/day-18-steady-under-fire.md
+chapters/day-19-endurance.md
+chapters/day-20-toughness-is-not-hardness.md

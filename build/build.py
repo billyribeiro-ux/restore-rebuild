@@ -33,7 +33,11 @@ INK = RGBColor(0x1A, 0x1A, 0x1A)
 MUTED = RGBColor(0x5A, 0x5A, 0x5A)
 
 # Word-count band for daily chapters; anything outside gets flagged loudly.
-CHAPTER_MIN, CHAPTER_MAX = 750, 1100
+# Set at 750-1100 while drafting, then widened once the chapters existed: a
+# chapter carrying a verse, a mechanism, a meditation and an action does not
+# fit in 900 words without going thin somewhere. 850-1250 is a four-to-six
+# minute read, which is still one sitting before the market opens.
+CHAPTER_MIN, CHAPTER_MAX = 850, 1250
 
 # Sections whose body paragraphs get special treatment.
 SEC_MEDITATION = "the meditation"
