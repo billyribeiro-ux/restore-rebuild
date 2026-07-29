@@ -50,7 +50,7 @@ The build prints a word count for every chapter and flags any outside the 850–
 - **Chapter structure** — every daily chapter uses the same eight `##` sections. Three of them are styled specially by name: `The Meditation`, `Say It Out Loud`, and `Carry This`. If you rename those headings, update the `SEC_*` constants at the top of `build/build.py`.
 - **Changing an affirmation** — edit the chapter, then run `python3 build/sync_affirmations.py` to regenerate Appendix C. Never edit Appendix C by hand; it is generated, and the script fails loudly if any chapter does not have exactly three affirmations.
 - **Page design** — all typography lives in `build_styles()` in `build/build.py`. Page size is 5.5 × 8.5 in, the standard digest trim for a devotional.
-- **Author name** — replace `[ Author Name ]` in `manuscript/front/00-title.md`.
+- **Byline** — the name (`###`) and credential line (`####`) live in `manuscript/front/00-title.md`. The author name also appears in the document metadata, set by `BOOK_AUTHOR` at the top of `build/build.py`; change both together.
 
 ## Scripture
 

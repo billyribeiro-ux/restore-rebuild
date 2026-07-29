@@ -6,4 +6,6 @@
 
 Rebuilding the mind, the discipline, and the soul of a trader — slowly, and for good.
 
-### [ Author Name ]
+### Billy Ribeiro
+
+#### Professional Trader · Mentor · CMT

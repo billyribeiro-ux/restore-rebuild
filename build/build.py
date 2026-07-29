@@ -27,6 +27,10 @@ MANUSCRIPT = ROOT / "manuscript"
 DIST = ROOT / "dist"
 ORDER_FILE = MANUSCRIPT / "order.txt"
 
+BOOK_TITLE = "Restore & Rebuild"
+BOOK_SUBTITLE = "30 Days from the Blow-Up to the Comeback"
+BOOK_AUTHOR = "Billy Ribeiro"
+
 BODY_FONT = "Georgia"
 DISPLAY_FONT = "Georgia"
 INK = RGBColor(0x1A, 0x1A, 0x1A)
@@ -139,9 +143,15 @@ def build_styles(doc):
     st = s(doc, "RRBookSubtitle", size=12.5, italic=True, align=C, color=MUTED)
     _set_spacing(st.paragraph_format, before=0, after=24, line=1.3)
 
-    st = s(doc, "RRBookByline", size=11, align=C, color=MUTED, caps=True)
+    st = s(doc, "RRBookByline", size=11, align=C, color=INK, caps=True)
     _letter_space(st, 30)
     _set_spacing(st.paragraph_format, before=36, after=0)
+
+    # Sits under the byline on the title page: smaller and lighter than the
+    # name, so the two read as a name and its credential rather than two lines.
+    st = s(doc, "RRBookCredential", size=8.5, align=C, color=MUTED, caps=True)
+    _letter_space(st, 25)
+    _set_spacing(st.paragraph_format, before=7, after=0)
 
     st = s(doc, "RRPartKicker", size=9.5, align=C, color=MUTED, caps=True)
     _letter_space(st, 60)
@@ -376,6 +386,15 @@ def render_file(doc, path: Path, state: dict):
             i += 1
             continue
 
+        if stripped.startswith("#### "):
+            head = stripped[5:].strip()
+            if is_title_page:
+                para(doc, "RRBookCredential", head)
+            else:
+                para(doc, "RRBodyText2", f"**{head}**")
+            i += 1
+            continue
+
         if stripped.startswith("### "):
             head = stripped[4:].strip()
             if is_title_page:
@@ -515,6 +534,16 @@ def word_count(path: Path) -> int:
     return len(txt.split())
 
 
+def set_metadata(doc):
+    """Travels with the file to any editor, printer or reader. Without this the
+    DOCX and the PDF both credit python-docx as the author."""
+    cp = doc.core_properties
+    cp.title = BOOK_TITLE
+    cp.subject = BOOK_SUBTITLE
+    cp.author = BOOK_AUTHOR
+    cp.last_modified_by = BOOK_AUTHOR
+
+
 def main():
     DIST.mkdir(exist_ok=True)
     files = read_order()
@@ -523,6 +552,7 @@ def main():
     setup_page(doc)
     enable_hyphenation(doc)
     build_styles(doc)
+    set_metadata(doc)
 
     state = {"started": False}
     md_parts = []
