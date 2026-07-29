@@ -1,0 +1,10 @@
+# Reading order for the manuscript. One path per line, relative to manuscript/.
+# Lines starting with # are ignored. Reorder freely; filenames never need to change.
+
+front/00-title.md
+front/01-letter.md
+front/02-how-to-use.md
+front/03-necessary-word.md
+
+chapters/part-1.md
+chapters/day-01-the-day-the-number-died.md
