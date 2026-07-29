@@ -12,7 +12,7 @@ Twenty days in, and there is a question underneath all the others that you have 
 
 *How will I ever trust myself again?*
 
-Because that is the real damage. The money is a number and numbers can be rebuilt. What you cannot see a route back to is the thing you had before — the settled, unexamined confidence that when the moment came you would do what you said you would do. You had that for years. You did not know you had it, the way you do not know you have a functioning knee. And now you stand at the desk and there is a voice asking, quite reasonably, on what basis you believe you will behave differently this time.
+Because that is the real damage. The money is a number and numbers can be rebuilt. What you cannot see a route back to is what you had before — the settled, unexamined confidence that when the moment came you would do what you said you would do. You did not know you had it, the way you do not know you have a functioning knee. And now there is a voice asking, quite reasonably, on what basis you believe you will behave differently this time.
 
 You have been trying to answer that voice with resolve. It does not accept resolve. Today you find out what it does accept.
 
@@ -20,7 +20,7 @@ You have been trying to answer that voice with resolve. It does not accept resol
 
 Albert Bandura spent a career on **self-efficacy** — not general self-esteem, but the specific belief that you can execute a specific behaviour in a specific situation. It predicts performance more reliably than almost anything else in applied psychology, and it predicts persistence in the face of setbacks, which is the variable that matters for you.
 
-The useful part of Bandura's account is that he identified where self-efficacy comes from, and ranked the sources. There are four.
+The useful part is that Bandura identified where self-efficacy comes from, and ranked the sources. There are four.
 
 **Verbal persuasion** — being told you can do it. The weakest. It helps a little, and it evaporates on contact with difficulty.
 
@@ -34,7 +34,7 @@ That ranking is the whole of today. Your trust in yourself was destroyed by evid
 
 Which tells you exactly how to come back, and why it has to be small.
 
-Bandura observed something important: mastery experiences build durable efficacy when the task is difficult enough to be meaningful but achievable enough to succeed at. Easy wins on trivial tasks build nothing, because you cannot be persuaded by evidence you do not respect. And attempts far beyond current capacity produce failures that damage efficacy further — which is precisely what happens to the trader who comes back too big, does the same thing again, and this time concludes it is permanent.
+Mastery experiences build durable efficacy when the task is difficult enough to be meaningful but achievable enough to succeed at. Easy wins on trivial tasks build nothing — you cannot be persuaded by evidence you do not respect. And attempts far beyond current capacity produce failures that damage efficacy further, which is exactly what happens to the trader who comes back too big, does the same thing again, and this time concludes it is permanent.
 
 So the size at which you return has nothing to do with what you can afford. It is set by a different question entirely: **what is the largest size at which you will reliably execute your rules?** That is the size. Not the size that would make the money back — that size, by definition, is the size at which you failed. You are not trading for profit for the next several months. You are trading for **evidence**, and evidence is only produced by trades where following the rule was genuinely tested and you followed it anyway.
 
@@ -48,9 +48,9 @@ Jesus is not saying that small faithfulness earns a promotion. Read the second h
 
 Which is why the small size is not a punishment or a probation period. It is a **test instrument**. Your behaviour at one-twentieth of your old size will tell you the truth about your behaviour at full size, because it is the same behaviour. If you cannot honour a stop on a position whose loss would not buy dinner, the problem was never the size of the position.
 
-And read what is being described as *little* in that passage: money. Jesus calls it *unrighteous mammon* two verses earlier, and treats it as the small thing by which something far larger is being tested. That should land oddly for you, and it should keep landing oddly. The thing whose loss has flattened you for three weeks is categorised here as the training ground, not the point.
+And read what is being described as *little* here: money. Jesus calls it *unrighteous mammon* two verses earlier and treats it as the small thing by which something far larger is tested. The thing whose loss has flattened you for three weeks is categorised as the training ground, not the point.
 
-There is grace in this too, though it is easy to miss. The verse means that no act of faithfulness is too small to count. The stop you honour on a trade nobody will ever hear about, on a Tuesday, in an empty room — that is not preparation for the real thing. On this account, it *is* the real thing, at the size you can currently manage.
+There is grace in this too. No act of faithfulness is too small to count. The stop you honour on a trade nobody will ever hear about, on a Tuesday, in an empty room — that is not preparation for the real thing. On this account it *is* the real thing, at the size you can currently manage.
 
 ## The Meditation
 

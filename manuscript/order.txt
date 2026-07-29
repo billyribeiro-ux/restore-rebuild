@@ -38,3 +38,11 @@ chapters/day-27-who-you-are-now.md
 chapters/day-28-money-motive-and-the-soul.md
 chapters/day-29-do-not-rebuild-alone.md
 chapters/day-30-the-comeback-covenant.md
+
+back/day-31.md
+
+appendices/a-graded-reentry.md
+appendices/b-the-rebuild-journal.md
+appendices/c-the-affirmations.md
+appendices/d-scripture-index.md
+appendices/e-notes-and-sources.md

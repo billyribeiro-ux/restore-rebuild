@@ -10,7 +10,7 @@
 
 Someone will ask you at a dinner, in the next month or so, what you do.
 
-Run the answer in your head now. Notice what happens to your face. There is a small internal scramble — a calculation about how much to say, whether this person might have heard, whether *trader* is still a word you are entitled to use. You have been avoiding rooms because of that question.
+Run the answer in your head now, and notice what happens to your face. There is a small internal scramble — how much to say, whether this person might have heard, whether *trader* is still a word you are entitled to use. You have been avoiding rooms because of that question.
 
 Underneath it is something larger than embarrassment. For years, the sentence *I am a trader* did not describe your occupation. It described **you** — and the description was underwritten by performance. Now the performance has gone, and the sentence has nothing under it, and you genuinely do not know what to say you are.
 
@@ -24,9 +24,9 @@ Daphna Oyserman's work on **identity-based motivation** shows that people act in
 
 Apply that directly. If you are, in your own mind, *a man who blew up*, then every hard morning of small-size, rule-following discipline will feel like evidence that you are pretending. The difficulty itself becomes proof of fraudulence. You will not be able to sustain it, no matter how good your systems are — which is why Appendix A alone will not save you, and why this chapter comes before Day 30 rather than after it.
 
-There is a related body of work on **possible selves** — the future identities a person can vividly picture. Possible selves function as motivational anchors, but only when they are *specific* and connected to concrete strategies. A vague hoped-for self does very little. A detailed one, with routes attached, does considerable work.
+There is related work on **possible selves** — the future identities a person can vividly picture. They function as motivational anchors, but only when they are *specific* and attached to concrete strategies. A vague hoped-for self does very little.
 
-And there is a practical finding on how identity actually shifts, which will save you from waiting for a feeling: identity follows **accumulated evidence of action**, not the reverse. Each time you behave as the person you intend to be, you cast a small vote. Nobody becomes a person of integrity by deciding to be one. They become one by a long series of individually unimpressive acts that eventually make the alternative description implausible.
+And there is a practical finding on how identity actually shifts, which will save you from waiting for a feeling: identity follows **accumulated evidence of action**, not the reverse. Each time you behave as the person you intend to be, you cast a small vote. Nobody becomes a person of integrity by deciding to be one. They become one by a long series of unimpressive acts that eventually make the alternative description implausible.
 
 You have twenty-six ticks on a sheet on your wall. Look at what they actually are. They are votes. Not for a trader who wins — for a man who does what he says he will do on a morning when nobody is checking. That is a different identity from the one you had before, and it is one that a market cannot revoke.
 

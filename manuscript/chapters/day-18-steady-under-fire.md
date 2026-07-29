@@ -34,7 +34,7 @@ You have one, and it is your **exhale**.
 
 Heart rate is not constant; it rises slightly with each in-breath and falls with each out-breath, through a vagal mechanism. Lengthen the exhale relative to the inhale and you bias the system toward the branch that slows things down. This is why every instruction in this book has been *in for four, out for six* — the ratio is the active ingredient, not the mysticism. There is also good evidence for the **double inhale** — two short sharp breaths in through the nose, then one long slow release — as one of the faster ways to bring down acute arousal in real time, at the desk, without anyone noticing.
 
-You are not stuck with the state you are in. But the lever is in your lungs, not your reasoning.
+You are not stuck with the state you are in — but the lever is in your lungs, not your reasoning.
 
 ## What the Word Says To It
 
@@ -42,7 +42,7 @@ You are not stuck with the state you are in. But the lever is in your lungs, not
 
 This verse is quoted as though it were an invitation to a quiet morning with a candle. Look at where it actually sits.
 
-Psalm 46 opens in cataclysm: the earth giving way, mountains falling into the sea, waters roaring, nations raging, kingdoms moved. And in the middle of that, God speaks: *Be still.*
+Psalm 46 opens in cataclysm: the earth giving way, mountains falling into the sea, nations raging, kingdoms moved. And into that, God speaks: *Be still.*
 
 The Hebrew *harpu* is closer to **"let go"** or **"cease striving"** — the sense of dropping your hands, releasing a grip. It is not a description of a peaceful setting. It is a command issued into chaos, telling people to stop their frantic activity in the middle of it.
 

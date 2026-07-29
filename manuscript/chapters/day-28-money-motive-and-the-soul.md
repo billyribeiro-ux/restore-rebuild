@@ -12,7 +12,7 @@ Answer a question you have been careful not to ask.
 
 **What was the money for?**
 
-Not the polite answer — security, freedom, providing for the family. Those are true and they are not the whole truth, and you know it, because at several points you were already secure and you did not stop. What were you actually going to do with the number once you reached it?
+Not the polite answer — security, freedom, providing for the family. Those are true and they are not the whole truth, and you know it, because at several points you were already secure and you did not stop.
 
 If you are honest, there may not have been a number. There was a direction. And a direction has no arrival point, which means there was never going to be a day when you sat back and said *that's enough*. There was only ever more.
 
@@ -24,13 +24,13 @@ Two mechanisms, and they compound each other.
 
 **The reward system does not have a stopping rule.** From Day 17: dopamine tracks prediction error, and the response migrates to whatever cue predicts reward. What it does not do is compute *sufficiency*. There is no circuit whose job it is to fire and say *this is enough now*. Sufficiency is not a feeling that will eventually arrive; it can only ever be a **decision**, made in advance, in language.
 
-Compounding this is **hedonic adaptation**. The evidence here is nuanced and worth stating carefully rather than sloganeering: money does improve wellbeing, and the older claim that it flatlines above a certain income has been substantially revised — more recent work finds wellbeing continuing to rise with income for most people. But what is robust is the **adaptation** itself. A new level becomes the baseline. The gain is real and the gain is temporary, and the baseline is where the next comparison starts from. So a system with no stopping rule, running on a baseline that resets, produces a person who is never at rest and cannot explain why.
+Compounding this is **hedonic adaptation**, and the evidence is worth stating carefully rather than sloganeering. Money does improve wellbeing, and the older claim that it flatlines above a certain income has been substantially revised — recent work finds wellbeing continuing to rise with income for most people. What is robust is the **adaptation** itself: a new level becomes the baseline. The gain is real and the gain is temporary, and the baseline is where the next comparison starts. A system with no stopping rule, running on a baseline that resets, produces a person who is never at rest and cannot say why.
 
 Now the part that turns this from a philosophical observation into a risk parameter.
 
 Motive determines size. A trader whose motive is *earn a good living from a craft I love* has a natural ceiling: he sizes so the craft survives. A trader whose motive is a direction with no arrival point has **no natural ceiling at all** — every position is smaller than the position that would get him there faster, so there is always a rational-sounding argument for more. That argument does not present itself as greed. It presents itself as ambition, conviction, using the edge properly.
 
-There is also good evidence that a substantial minority of active traders meet criteria for **problem gambling** — the behavioural overlap is well documented, and it frequently goes unrecognised precisely because the activity is respectable and the person is intelligent. If your trading has featured chasing losses, escalating size to recover, concealment about the extent of positions, or trading to relieve distress rather than to express an edge, that is worth taking seriously with a professional. It is not a character verdict; it is a treatable condition with specific interventions, and it does not respond to discipline alone.
+There is also good evidence that a substantial minority of active traders meet criteria for **problem gambling**, and it frequently goes unrecognised precisely because the activity is respectable and the person is intelligent. If your trading has featured chasing losses, escalating size to recover, concealment about position size, or trading to relieve distress rather than to express an edge, take that to a professional. It is not a character verdict; it is a treatable condition, and it does not respond to discipline alone.
 
 The practical output of today is a number. Not a target — a **ceiling**. Written down, before you are anywhere near it.
 
@@ -42,9 +42,7 @@ It does not say money is the root of all evil. It says **the love of money** is 
 
 What Paul diagnoses is a **direction of desire**, and look at the phrase he chooses: *"those who are determined to be rich."* Not those who are rich. Those whose settled aim is the acquiring. That is a description of a trajectory rather than a balance sheet, and a man can be on that trajectory at any level of wealth, which is why having enough never removed the problem for you.
 
-Then the image, which is unusually violent for Paul: *"pierced themselves through with many sorrows."* Reflexive. Self-inflicted. Not *were struck down*. Nobody did this to them.
-
-And notice what he lists as the mechanism a few words earlier: *a temptation, a snare*. A snare is not a punishment; it is a trap that works because the animal cannot see the shape of it while walking in.
+Then the image, unusually violent for Paul: *"pierced themselves through with many sorrows."* Reflexive. Self-inflicted. Not *were struck down*. And note the mechanism a few words earlier: *a temptation, a snare*. A snare is not a punishment; it is a trap that works because the animal cannot see the shape of it while walking in.
 
 Two verses before this, Paul writes the sentence that answers the question at the top of this page: *"godliness with contentment is great gain."* **Contentment is named as a form of gain.** Not the consolation prize for people who failed to get rich — an asset, listed alongside godliness, with a return of its own.
 

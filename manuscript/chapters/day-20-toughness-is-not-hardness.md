@@ -44,7 +44,7 @@ And the answer he received is one of the strangest sentences in the New Testamen
 
 Then Paul's conclusion, which sounds like nonsense until you have been where you are: *"When I am weak, then am I strong."*
 
-This is not a man romanticising failure. Paul is, by any measure, one of the more formidable figures in history — and he is telling us that the thing he learned last, and hardest, was that his capability was not the load-bearing element. He is describing exactly the transition from rigidity to flexibility: from a strength that must not be seen to fail, to a strength that can be honest about its limits because it is not the ultimate source.
+This is not a man romanticising failure. Paul is one of the more formidable figures in history, and he is telling us that what he learned last, and hardest, was that his capability was not the load-bearing element. That is exactly the transition from rigidity to flexibility: from a strength that must not be seen to fail, to one that can be honest about its limits because it is not the ultimate source.
 
 Consider what this does to your inability to say *I am wrong*. That sentence costs you because your competence has been doing a job it was never able to do — holding up your worth. Paul's discovery is that once something else is holding that up, admitting weakness stops being dangerous. It becomes information. And a trader who can take in information about being wrong, at speed, without it costing him anything, is a trader who does not blow up.
 

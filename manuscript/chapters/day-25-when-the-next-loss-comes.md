@@ -18,19 +18,19 @@ Today we make that Thursday less dangerous, and we do it in the only way that wo
 
 ## What Is Happening In Your Brain
 
-Donald Meichenbaum's **stress inoculation training** takes its name from the medical analogy, and the analogy is exact. You are exposed to a controlled dose of the stressor in advance, with coping skills in place, so that the immune response is trained before the real challenge arrives. It has been applied to soldiers, surgeons, athletes and police for decades, and the structure is always the same three phases: understand the stressor, acquire the skills, then **rehearse under graded exposure**.
+Donald Meichenbaum's **stress inoculation training** takes its name from the medical analogy, and the analogy is exact: a controlled dose of the stressor in advance, with coping skills in place, so the response is trained before the real challenge arrives. It has been used with soldiers, surgeons, athletes and police for decades, and the structure is always three phases — understand the stressor, acquire the skills, then **rehearse under graded exposure**.
 
 You have done the first two. This is the third.
 
-Two mechanisms make it work. The first is that a rehearsed situation is no longer novel, and novelty is a large part of what makes a stressor overwhelming — the alarm system responds far more strongly to the unexpected. The second is that under stress, as Day 3 established, you do not access your best reasoning; you access what is most available. Rehearsal is how something becomes available.
+Two mechanisms make it work. A rehearsed situation is no longer novel, and novelty is a large part of what makes a stressor overwhelming. And under stress, as Day 3 established, you do not access your best reasoning — you access what is most available. Rehearsal is how something becomes available.
 
-There is a second body of work you should have, on what psychologists call the **abstinence violation effect**, drawn from relapse-prevention research. Its finding is uncomfortable and important: after a lapse, the damage is done less by the lapse itself than by how it is *interpreted*. People who read a single slip as proof that the whole effort has failed — who conclude *I've blown it, so it's over* — go on to full relapse at much higher rates than people who read the same slip as a single event with a cause worth examining.
+There is a second finding you should have, from relapse-prevention research, called the **abstinence violation effect**: after a lapse, the damage is done less by the lapse than by how it is *interpreted*. People who read a single slip as proof the whole effort has failed — *I've blown it, so it's over* — relapse fully at much higher rates than people who read the same slip as one event with a cause worth examining.
 
 Translate that into your Thursday. The red day is not the risk. **The story you tell about the red day is the risk.** If it means *the process does not work* or *I am back to being that man*, you will act accordingly, and the action available to a trader who has decided the process failed is size.
 
 So the plan for the first red day has to include, in writing, what it means — decided now, while you can think, exactly as Day 16 taught you.
 
-And one piece of arithmetic that will help you more than any encouragement. Losing sessions are not a deviation from a functioning process; they are a component of it. A method that wins six times in ten will produce runs of four consecutive losses regularly, and longer runs eventually — not because anything has broken, but because that is what randomness does over enough trials. A drawdown is not evidence against your method until it exceeds what your method's own statistics say is normal, and if you do not know that number you will conclude you are broken every single time the ordinary happens.
+And one piece of arithmetic worth more than any encouragement. Losing sessions are not a deviation from a functioning process; they are a component of it. A method that wins six times in ten will produce runs of four consecutive losses regularly, and longer runs eventually — not because anything has broken, but because that is what randomness does. A drawdown is not evidence against your method until it exceeds what your method's own statistics say is normal, and if you do not know that number you will conclude you are broken every time the ordinary happens.
 
 ## What the Word Says To It
 
@@ -42,7 +42,7 @@ The righteousness in the proverb is not located in the not-falling. It is locate
 
 So the difference between the two men in this proverb is not the number of falls. It is what happens afterwards.
 
-This should land on you with some force, because you have been carrying an assumption that the blow-up disqualified you — that a real professional would not have had one. That assumption is not in the text, and it is not in the life of anyone in Scripture worth reading about. The book is almost entirely populated by people who fell catastrophically and were not finished: Peter, who denied he even knew the man, three times, out loud, and was reinstated by name; David, whose worst act is recorded in full detail and left in the record.
+This should land with some force, because you have been carrying an assumption that the blow-up disqualified you — that a real professional would not have had one. That assumption is not in the text, and it is not in the life of anyone in Scripture worth reading about. The book is populated by people who fell catastrophically and were not finished: Peter, who denied he knew the man, three times, out loud, and was reinstated by name; David, whose worst act is recorded in full and left in the record.
 
 There is also a quiet grammatical point. *Rises up again* is not a single completed action; it is the pattern of a life. The rising is a practice, like the falling. You are going to get repeated opportunities to become good at it, and you have already had one.
 

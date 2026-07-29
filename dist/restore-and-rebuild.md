@@ -1314,7 +1314,7 @@ I have been reporting on myself in a language that contains no measurements and 
 
 Thirteen mornings you have said three sentences aloud, and on at least eight of them you have felt like a fraud doing it.
 
-You have said *I am not the wreckage* into a bathroom mirror while looking at a man who plainly is. You have wondered whether this is the part of the book where the psychology stops and the positive thinking starts. You have suspected, quietly, that saying things does nothing, and that you are performing a ritual to avoid the harder work.
+You have said *I am not the wreckage* into a bathroom mirror while looking at a man who plainly is. You have wondered whether this is where the psychology stops and the positive thinking starts — whether saying things does nothing, and you are performing a ritual to avoid the harder work.
 
 Today you get the evidence — including the part of the evidence that says badly-built affirmations make people **worse**, which is exactly why the ones in this book are shaped the way they are.
 
@@ -1324,19 +1324,19 @@ Three findings, and the third is the one nobody quotes.
 
 **One: affirming what you value protects your ability to think under threat.** Claude Steele's self-affirmation theory begins with an observation about what threat actually does. When something attacks your sense of being a competent, decent person — a loss, a failure, being seen at your worst — you become defensive. You rationalise, you avoid disconfirming information, you dig in. Not because you are weak; because the system is protecting its own integrity.
 
-Steele found the defensiveness could be switched off by an unrelated move: get the person to reflect on a value they hold — family, faith, honesty — and their capacity to accept threatening information about themselves increases sharply. The effects in the field have been substantial. In a study published in *Science*, a brief values-affirmation writing exercise, repeated a handful of times, measurably narrowed the achievement gap for at-risk students, with effects still detectable two years later.
+Steele found the defensiveness could be switched off by an unrelated move: get the person to reflect on a value they hold — family, faith, honesty — and their capacity to accept threatening information about themselves increases sharply. In a study published in *Science*, a brief values-affirmation writing exercise, repeated a handful of times, measurably narrowed the achievement gap for at-risk students, with effects still detectable two years later.
 
-Read that again in your own context. **The point of an affirmation is not to make you feel good. It is to lower your defences enough to look at the truth.** It is what makes Day 8 possible. The two exercises are not separate; the affirmation is the anaesthetic that permits the surgery.
+Read that again in your own context. **The point of an affirmation is not to make you feel good. It is to lower your defences enough to look at the truth.** It is what makes Day 8 possible. The affirmation is the anaesthetic that permits the surgery.
 
-**Two: the effect is visible in the brain, and it is oriented to the future.** In work using brain imaging, self-affirmation engaged regions associated with self-processing and valuation — the ventromedial prefrontal cortex and ventral striatum — and the effect was strongest when participants were oriented toward *future* values rather than past achievements. Affirmation appears to work partly by making a valued future feel present and rewarding now. Which tells you something practical: an affirmation about who you are becoming does more work than one about what you have already been.
+**Two: the effect is visible in the brain, and it is oriented to the future.** In imaging work, self-affirmation engaged regions associated with self-processing and valuation — the ventromedial prefrontal cortex and ventral striatum — and the effect was strongest when participants were oriented toward *future* values rather than past achievements. Which tells you something practical: an affirmation about who you are becoming does more work than one about what you have already been.
 
-**Three — and this is the finding that saves you from nonsense.** Joanne Wood and colleagues tested the standard self-help instruction directly. They had participants repeat *"I am a lovable person"* and measured mood and self-regard afterwards. For people with high self-esteem, small benefit. For people with **low** self-esteem — the people the technique is sold to — mood and self-regard got **worse**.
+**Three — and this is the finding that saves you from nonsense.** Joanne Wood and colleagues tested the standard self-help instruction directly, having participants repeat *"I am a lovable person"*. For people with high self-esteem, small benefit. For people with **low** self-esteem — the people the technique is sold to — mood and self-regard got **worse**.
 
-Why? Because a flat self-description that contradicts what you currently believe triggers counter-argument. Say *I am a great trader* today and your mind, which is not stupid, immediately produces the account statement. The statement wins. You have just run a repetition that strengthens the opposite of what you intended.
+Why? Because a flat self-description that contradicts what you believe triggers counter-argument. Say *I am a great trader* today and your mind, which is not stupid, immediately produces the account statement. The statement wins. You have just run a repetition that strengthens the opposite of what you intended.
 
 So the rule, drawn from the evidence rather than from wishful thinking: **an affirmation must be something your mind cannot easily refute.** Which is why every affirmation in this book is built to one of three patterns — a commitment (*I speak accurately about myself*), a fact you can verify (*my brain changes with what I practise*), or a promise from Scripture (*God is near to the broken-hearted*). None of them is a boast about your ability, and none can be shot down by your account balance.
 
-Then why *out loud*? Because spoken words are processed and retained differently from read ones. There is a well-replicated effect in memory research called the **production effect**: words spoken aloud are remembered substantially better than words read silently — the act of production makes them distinctive. And in sport, a meta-analysis of self-talk interventions found reliable performance improvements across tasks, with the strongest effects for instructional self-talk on fine skills.
+Then why *out loud*? Because spoken words are processed differently from read ones. Memory research documents a **production effect**: words spoken aloud are remembered substantially better than words read silently. And a meta-analysis of self-talk interventions in sport found reliable performance improvements across tasks.
 
 Saying it aloud is not theatre. It is the difference between reading a rule and rehearsing it.
 
@@ -1344,15 +1344,13 @@ Saying it aloud is not theatre. It is the difference between reading a rule and 
 
 Look at where God locates the law in Joshua's commission. Not *in your heart* — though that comes elsewhere. **"Shall not depart out of your mouth."**
 
-Joshua is about to lead a nation into a military campaign, and the instruction he receives before it is essentially a speech protocol. Keep the words in your mouth. Say them, day and night. The Hebrew word rendered *meditate* — *hagah* — does not mean silent contemplation; it carries the sense of muttering, murmuring, speaking under the breath. Israel's meditation was audible. It was a man walking along a road saying the words to himself.
+Joshua is about to lead a nation into a military campaign, and the instruction he receives beforehand is essentially a speech protocol. Keep the words in your mouth; say them, day and night. The Hebrew rendered *meditate* — *hagah* — does not mean silent contemplation; it carries the sense of muttering, speaking under the breath. Israel's meditation was audible. It was a man walking along a road saying the words to himself.
 
 And note the stated purpose at the end of the verse: **"that you may observe to do."** The speaking is not the goal. Doing is the goal, and speaking is the mechanism that gets you there. That is precisely the structure of this book: three sentences in the morning, then one small action.
 
-Paul makes the same connection in Romans 10 — *with the heart one believes, and with the mouth confession is made*. Not the mouth instead of the heart. Both, in an order, with the mouth doing real work rather than reporting a finished internal state.
+Paul makes the same connection in Romans 10 — *with the heart one believes, and with the mouth confession is made*. Not the mouth instead of the heart. Both, with the mouth doing real work rather than reporting a finished internal state.
 
-There is something to notice here for a person who has felt fraudulent all fortnight. Scripture never asks anyone to say only what they already feel. It asks them to say what is **true**, repeatedly, until the feeling catches up — and it treats the interval between the saying and the feeling as normal rather than as hypocrisy.
-
-You are not lying when you say something true that you do not yet feel. You are doing what Joshua was told to do on the eve of the hardest assignment of his life.
+And there is something here for a man who has felt fraudulent all fortnight. Scripture never asks anyone to say only what they already feel. It asks them to say what is **true**, repeatedly, until the feeling catches up — and it treats the interval between the saying and the feeling as normal rather than as hypocrisy. You are not lying when you say something true that you do not yet feel. You are doing what Joshua was told to do on the eve of the hardest assignment of his life.
 
 ## The Meditation
 
@@ -1707,7 +1705,7 @@ You have one, and it is your **exhale**.
 
 Heart rate is not constant; it rises slightly with each in-breath and falls with each out-breath, through a vagal mechanism. Lengthen the exhale relative to the inhale and you bias the system toward the branch that slows things down. This is why every instruction in this book has been *in for four, out for six* — the ratio is the active ingredient, not the mysticism. There is also good evidence for the **double inhale** — two short sharp breaths in through the nose, then one long slow release — as one of the faster ways to bring down acute arousal in real time, at the desk, without anyone noticing.
 
-You are not stuck with the state you are in. But the lever is in your lungs, not your reasoning.
+You are not stuck with the state you are in — but the lever is in your lungs, not your reasoning.
 
 ## What the Word Says To It
 
@@ -1715,7 +1713,7 @@ You are not stuck with the state you are in. But the lever is in your lungs, not
 
 This verse is quoted as though it were an invitation to a quiet morning with a candle. Look at where it actually sits.
 
-Psalm 46 opens in cataclysm: the earth giving way, mountains falling into the sea, waters roaring, nations raging, kingdoms moved. And in the middle of that, God speaks: *Be still.*
+Psalm 46 opens in cataclysm: the earth giving way, mountains falling into the sea, nations raging, kingdoms moved. And into that, God speaks: *Be still.*
 
 The Hebrew *harpu* is closer to **"let go"** or **"cease striving"** — the sense of dropping your hands, releasing a grip. It is not a description of a peaceful setting. It is a command issued into chaos, telling people to stop their frantic activity in the middle of it.
 
@@ -1907,7 +1905,7 @@ And the answer he received is one of the strangest sentences in the New Testamen
 
 Then Paul's conclusion, which sounds like nonsense until you have been where you are: *"When I am weak, then am I strong."*
 
-This is not a man romanticising failure. Paul is, by any measure, one of the more formidable figures in history — and he is telling us that the thing he learned last, and hardest, was that his capability was not the load-bearing element. He is describing exactly the transition from rigidity to flexibility: from a strength that must not be seen to fail, to a strength that can be honest about its limits because it is not the ultimate source.
+This is not a man romanticising failure. Paul is one of the more formidable figures in history, and he is telling us that what he learned last, and hardest, was that his capability was not the load-bearing element. That is exactly the transition from rigidity to flexibility: from a strength that must not be seen to fail, to one that can be honest about its limits because it is not the ultimate source.
 
 Consider what this does to your inability to say *I am wrong*. That sentence costs you because your competence has been doing a job it was never able to do — holding up your worth. Paul's discovery is that once something else is holding that up, admitting weakness stops being dangerous. It becomes information. And a trader who can take in information about being wrong, at speed, without it costing him anything, is a trader who does not blow up.
 
@@ -1979,7 +1977,7 @@ Twenty days in, and there is a question underneath all the others that you have 
 
 *How will I ever trust myself again?*
 
-Because that is the real damage. The money is a number and numbers can be rebuilt. What you cannot see a route back to is the thing you had before — the settled, unexamined confidence that when the moment came you would do what you said you would do. You had that for years. You did not know you had it, the way you do not know you have a functioning knee. And now you stand at the desk and there is a voice asking, quite reasonably, on what basis you believe you will behave differently this time.
+Because that is the real damage. The money is a number and numbers can be rebuilt. What you cannot see a route back to is what you had before — the settled, unexamined confidence that when the moment came you would do what you said you would do. You did not know you had it, the way you do not know you have a functioning knee. And now there is a voice asking, quite reasonably, on what basis you believe you will behave differently this time.
 
 You have been trying to answer that voice with resolve. It does not accept resolve. Today you find out what it does accept.
 
@@ -1987,7 +1985,7 @@ You have been trying to answer that voice with resolve. It does not accept resol
 
 Albert Bandura spent a career on **self-efficacy** — not general self-esteem, but the specific belief that you can execute a specific behaviour in a specific situation. It predicts performance more reliably than almost anything else in applied psychology, and it predicts persistence in the face of setbacks, which is the variable that matters for you.
 
-The useful part of Bandura's account is that he identified where self-efficacy comes from, and ranked the sources. There are four.
+The useful part is that Bandura identified where self-efficacy comes from, and ranked the sources. There are four.
 
 **Verbal persuasion** — being told you can do it. The weakest. It helps a little, and it evaporates on contact with difficulty.
 
@@ -2001,7 +1999,7 @@ That ranking is the whole of today. Your trust in yourself was destroyed by evid
 
 Which tells you exactly how to come back, and why it has to be small.
 
-Bandura observed something important: mastery experiences build durable efficacy when the task is difficult enough to be meaningful but achievable enough to succeed at. Easy wins on trivial tasks build nothing, because you cannot be persuaded by evidence you do not respect. And attempts far beyond current capacity produce failures that damage efficacy further — which is precisely what happens to the trader who comes back too big, does the same thing again, and this time concludes it is permanent.
+Mastery experiences build durable efficacy when the task is difficult enough to be meaningful but achievable enough to succeed at. Easy wins on trivial tasks build nothing — you cannot be persuaded by evidence you do not respect. And attempts far beyond current capacity produce failures that damage efficacy further, which is exactly what happens to the trader who comes back too big, does the same thing again, and this time concludes it is permanent.
 
 So the size at which you return has nothing to do with what you can afford. It is set by a different question entirely: **what is the largest size at which you will reliably execute your rules?** That is the size. Not the size that would make the money back — that size, by definition, is the size at which you failed. You are not trading for profit for the next several months. You are trading for **evidence**, and evidence is only produced by trades where following the rule was genuinely tested and you followed it anyway.
 
@@ -2015,9 +2013,9 @@ Jesus is not saying that small faithfulness earns a promotion. Read the second h
 
 Which is why the small size is not a punishment or a probation period. It is a **test instrument**. Your behaviour at one-twentieth of your old size will tell you the truth about your behaviour at full size, because it is the same behaviour. If you cannot honour a stop on a position whose loss would not buy dinner, the problem was never the size of the position.
 
-And read what is being described as *little* in that passage: money. Jesus calls it *unrighteous mammon* two verses earlier, and treats it as the small thing by which something far larger is being tested. That should land oddly for you, and it should keep landing oddly. The thing whose loss has flattened you for three weeks is categorised here as the training ground, not the point.
+And read what is being described as *little* here: money. Jesus calls it *unrighteous mammon* two verses earlier and treats it as the small thing by which something far larger is tested. The thing whose loss has flattened you for three weeks is categorised as the training ground, not the point.
 
-There is grace in this too, though it is easy to miss. The verse means that no act of faithfulness is too small to count. The stop you honour on a trade nobody will ever hear about, on a Tuesday, in an empty room — that is not preparation for the real thing. On this account, it *is* the real thing, at the size you can currently manage.
+There is grace in this too. No act of faithfulness is too small to count. The stop you honour on a trade nobody will ever hear about, on a Tuesday, in an empty room — that is not preparation for the real thing. On this account it *is* the real thing, at the size you can currently manage.
 
 ## The Meditation
 
@@ -2359,19 +2357,19 @@ Today we make that Thursday less dangerous, and we do it in the only way that wo
 
 ## What Is Happening In Your Brain
 
-Donald Meichenbaum's **stress inoculation training** takes its name from the medical analogy, and the analogy is exact. You are exposed to a controlled dose of the stressor in advance, with coping skills in place, so that the immune response is trained before the real challenge arrives. It has been applied to soldiers, surgeons, athletes and police for decades, and the structure is always the same three phases: understand the stressor, acquire the skills, then **rehearse under graded exposure**.
+Donald Meichenbaum's **stress inoculation training** takes its name from the medical analogy, and the analogy is exact: a controlled dose of the stressor in advance, with coping skills in place, so the response is trained before the real challenge arrives. It has been used with soldiers, surgeons, athletes and police for decades, and the structure is always three phases — understand the stressor, acquire the skills, then **rehearse under graded exposure**.
 
 You have done the first two. This is the third.
 
-Two mechanisms make it work. The first is that a rehearsed situation is no longer novel, and novelty is a large part of what makes a stressor overwhelming — the alarm system responds far more strongly to the unexpected. The second is that under stress, as Day 3 established, you do not access your best reasoning; you access what is most available. Rehearsal is how something becomes available.
+Two mechanisms make it work. A rehearsed situation is no longer novel, and novelty is a large part of what makes a stressor overwhelming. And under stress, as Day 3 established, you do not access your best reasoning — you access what is most available. Rehearsal is how something becomes available.
 
-There is a second body of work you should have, on what psychologists call the **abstinence violation effect**, drawn from relapse-prevention research. Its finding is uncomfortable and important: after a lapse, the damage is done less by the lapse itself than by how it is *interpreted*. People who read a single slip as proof that the whole effort has failed — who conclude *I've blown it, so it's over* — go on to full relapse at much higher rates than people who read the same slip as a single event with a cause worth examining.
+There is a second finding you should have, from relapse-prevention research, called the **abstinence violation effect**: after a lapse, the damage is done less by the lapse than by how it is *interpreted*. People who read a single slip as proof the whole effort has failed — *I've blown it, so it's over* — relapse fully at much higher rates than people who read the same slip as one event with a cause worth examining.
 
 Translate that into your Thursday. The red day is not the risk. **The story you tell about the red day is the risk.** If it means *the process does not work* or *I am back to being that man*, you will act accordingly, and the action available to a trader who has decided the process failed is size.
 
 So the plan for the first red day has to include, in writing, what it means — decided now, while you can think, exactly as Day 16 taught you.
 
-And one piece of arithmetic that will help you more than any encouragement. Losing sessions are not a deviation from a functioning process; they are a component of it. A method that wins six times in ten will produce runs of four consecutive losses regularly, and longer runs eventually — not because anything has broken, but because that is what randomness does over enough trials. A drawdown is not evidence against your method until it exceeds what your method's own statistics say is normal, and if you do not know that number you will conclude you are broken every single time the ordinary happens.
+And one piece of arithmetic worth more than any encouragement. Losing sessions are not a deviation from a functioning process; they are a component of it. A method that wins six times in ten will produce runs of four consecutive losses regularly, and longer runs eventually — not because anything has broken, but because that is what randomness does. A drawdown is not evidence against your method until it exceeds what your method's own statistics say is normal, and if you do not know that number you will conclude you are broken every time the ordinary happens.
 
 ## What the Word Says To It
 
@@ -2383,7 +2381,7 @@ The righteousness in the proverb is not located in the not-falling. It is locate
 
 So the difference between the two men in this proverb is not the number of falls. It is what happens afterwards.
 
-This should land on you with some force, because you have been carrying an assumption that the blow-up disqualified you — that a real professional would not have had one. That assumption is not in the text, and it is not in the life of anyone in Scripture worth reading about. The book is almost entirely populated by people who fell catastrophically and were not finished: Peter, who denied he even knew the man, three times, out loud, and was reinstated by name; David, whose worst act is recorded in full detail and left in the record.
+This should land with some force, because you have been carrying an assumption that the blow-up disqualified you — that a real professional would not have had one. That assumption is not in the text, and it is not in the life of anyone in Scripture worth reading about. The book is populated by people who fell catastrophically and were not finished: Peter, who denied he knew the man, three times, out loud, and was reinstated by name; David, whose worst act is recorded in full and left in the record.
 
 There is also a quiet grammatical point. *Rises up again* is not a single completed action; it is the pattern of a life. The rising is a practice, like the falling. You are going to get repeated opportunities to become good at it, and you have already had one.
 
@@ -2540,7 +2538,7 @@ Every good thing I own was built at a speed that felt like nothing at the time.
 
 Someone will ask you at a dinner, in the next month or so, what you do.
 
-Run the answer in your head now. Notice what happens to your face. There is a small internal scramble — a calculation about how much to say, whether this person might have heard, whether *trader* is still a word you are entitled to use. You have been avoiding rooms because of that question.
+Run the answer in your head now, and notice what happens to your face. There is a small internal scramble — how much to say, whether this person might have heard, whether *trader* is still a word you are entitled to use. You have been avoiding rooms because of that question.
 
 Underneath it is something larger than embarrassment. For years, the sentence *I am a trader* did not describe your occupation. It described **you** — and the description was underwritten by performance. Now the performance has gone, and the sentence has nothing under it, and you genuinely do not know what to say you are.
 
@@ -2554,9 +2552,9 @@ Daphna Oyserman's work on **identity-based motivation** shows that people act in
 
 Apply that directly. If you are, in your own mind, *a man who blew up*, then every hard morning of small-size, rule-following discipline will feel like evidence that you are pretending. The difficulty itself becomes proof of fraudulence. You will not be able to sustain it, no matter how good your systems are — which is why Appendix A alone will not save you, and why this chapter comes before Day 30 rather than after it.
 
-There is a related body of work on **possible selves** — the future identities a person can vividly picture. Possible selves function as motivational anchors, but only when they are *specific* and connected to concrete strategies. A vague hoped-for self does very little. A detailed one, with routes attached, does considerable work.
+There is related work on **possible selves** — the future identities a person can vividly picture. They function as motivational anchors, but only when they are *specific* and attached to concrete strategies. A vague hoped-for self does very little.
 
-And there is a practical finding on how identity actually shifts, which will save you from waiting for a feeling: identity follows **accumulated evidence of action**, not the reverse. Each time you behave as the person you intend to be, you cast a small vote. Nobody becomes a person of integrity by deciding to be one. They become one by a long series of individually unimpressive acts that eventually make the alternative description implausible.
+And there is a practical finding on how identity actually shifts, which will save you from waiting for a feeling: identity follows **accumulated evidence of action**, not the reverse. Each time you behave as the person you intend to be, you cast a small vote. Nobody becomes a person of integrity by deciding to be one. They become one by a long series of unimpressive acts that eventually make the alternative description implausible.
 
 You have twenty-six ticks on a sheet on your wall. Look at what they actually are. They are votes. Not for a trader who wins — for a man who does what he says he will do on a morning when nobody is checking. That is a different identity from the one you had before, and it is one that a market cannot revoke.
 
@@ -2629,7 +2627,7 @@ Answer a question you have been careful not to ask.
 
 **What was the money for?**
 
-Not the polite answer — security, freedom, providing for the family. Those are true and they are not the whole truth, and you know it, because at several points you were already secure and you did not stop. What were you actually going to do with the number once you reached it?
+Not the polite answer — security, freedom, providing for the family. Those are true and they are not the whole truth, and you know it, because at several points you were already secure and you did not stop.
 
 If you are honest, there may not have been a number. There was a direction. And a direction has no arrival point, which means there was never going to be a day when you sat back and said *that's enough*. There was only ever more.
 
@@ -2641,13 +2639,13 @@ Two mechanisms, and they compound each other.
 
 **The reward system does not have a stopping rule.** From Day 17: dopamine tracks prediction error, and the response migrates to whatever cue predicts reward. What it does not do is compute *sufficiency*. There is no circuit whose job it is to fire and say *this is enough now*. Sufficiency is not a feeling that will eventually arrive; it can only ever be a **decision**, made in advance, in language.
 
-Compounding this is **hedonic adaptation**. The evidence here is nuanced and worth stating carefully rather than sloganeering: money does improve wellbeing, and the older claim that it flatlines above a certain income has been substantially revised — more recent work finds wellbeing continuing to rise with income for most people. But what is robust is the **adaptation** itself. A new level becomes the baseline. The gain is real and the gain is temporary, and the baseline is where the next comparison starts from. So a system with no stopping rule, running on a baseline that resets, produces a person who is never at rest and cannot explain why.
+Compounding this is **hedonic adaptation**, and the evidence is worth stating carefully rather than sloganeering. Money does improve wellbeing, and the older claim that it flatlines above a certain income has been substantially revised — recent work finds wellbeing continuing to rise with income for most people. What is robust is the **adaptation** itself: a new level becomes the baseline. The gain is real and the gain is temporary, and the baseline is where the next comparison starts. A system with no stopping rule, running on a baseline that resets, produces a person who is never at rest and cannot say why.
 
 Now the part that turns this from a philosophical observation into a risk parameter.
 
 Motive determines size. A trader whose motive is *earn a good living from a craft I love* has a natural ceiling: he sizes so the craft survives. A trader whose motive is a direction with no arrival point has **no natural ceiling at all** — every position is smaller than the position that would get him there faster, so there is always a rational-sounding argument for more. That argument does not present itself as greed. It presents itself as ambition, conviction, using the edge properly.
 
-There is also good evidence that a substantial minority of active traders meet criteria for **problem gambling** — the behavioural overlap is well documented, and it frequently goes unrecognised precisely because the activity is respectable and the person is intelligent. If your trading has featured chasing losses, escalating size to recover, concealment about the extent of positions, or trading to relieve distress rather than to express an edge, that is worth taking seriously with a professional. It is not a character verdict; it is a treatable condition with specific interventions, and it does not respond to discipline alone.
+There is also good evidence that a substantial minority of active traders meet criteria for **problem gambling**, and it frequently goes unrecognised precisely because the activity is respectable and the person is intelligent. If your trading has featured chasing losses, escalating size to recover, concealment about position size, or trading to relieve distress rather than to express an edge, take that to a professional. It is not a character verdict; it is a treatable condition, and it does not respond to discipline alone.
 
 The practical output of today is a number. Not a target — a **ceiling**. Written down, before you are anywhere near it.
 
@@ -2659,9 +2657,7 @@ It does not say money is the root of all evil. It says **the love of money** is 
 
 What Paul diagnoses is a **direction of desire**, and look at the phrase he chooses: *"those who are determined to be rich."* Not those who are rich. Those whose settled aim is the acquiring. That is a description of a trajectory rather than a balance sheet, and a man can be on that trajectory at any level of wealth, which is why having enough never removed the problem for you.
 
-Then the image, which is unusually violent for Paul: *"pierced themselves through with many sorrows."* Reflexive. Self-inflicted. Not *were struck down*. Nobody did this to them.
-
-And notice what he lists as the mechanism a few words earlier: *a temptation, a snare*. A snare is not a punishment; it is a trap that works because the animal cannot see the shape of it while walking in.
+Then the image, unusually violent for Paul: *"pierced themselves through with many sorrows."* Reflexive. Self-inflicted. Not *were struck down*. And note the mechanism a few words earlier: *a temptation, a snare*. A snare is not a punishment; it is a trap that works because the animal cannot see the shape of it while walking in.
 
 Two verses before this, Paul writes the sentence that answers the question at the top of this page: *"godliness with contentment is great gain."* **Contentment is named as a form of gain.** Not the consolation prize for people who failed to get rich — an asset, listed alongside godliness, with a return of its own.
 
@@ -2834,13 +2830,13 @@ Today you sign for it. And then tomorrow is Day 31, which is the day this book s
 
 Two last mechanisms, and they are both about making today hold.
 
-**Written commitments behave differently from intentions.** Research on commitment and consistency shows that once people take a position — particularly one that is *written*, *effortful*, and *known to others* — subsequent behaviour tends to align with it. Cialdini's summary of this literature identifies exactly those conditions as what makes a commitment stick: active rather than passive, public rather than private, effortful rather than easy, and freely chosen rather than imposed.
+**Written commitments behave differently from intentions.** Research on commitment and consistency finds that once people take a position, subsequent behaviour tends to align with it — and Cialdini's summary of that literature identifies what makes a commitment stick: active rather than passive, public rather than private, effortful rather than easy, freely chosen rather than imposed.
 
-Which tells you precisely how to write what you are about to write. By hand, not typed. Signed. Dated. Read aloud to another person. Every one of those is doing measurable work, and skipping them because they feel theatrical is skipping the mechanism.
+Which tells you precisely how to write what you are about to write. By hand, not typed. Signed. Dated. Read aloud to another person. Every one of those is doing work, and skipping them because they feel theatrical is skipping the mechanism.
 
-**Temporal landmarks genuinely help — and they also expire.** Work by Dai, Milkman and Riis identified the **fresh start effect**: people initiate aspirational behaviour at higher rates following landmark dates — the new year, a birthday, the start of a month. A landmark creates a break between the old self and the new one, which makes the new behaviour feel available.
+**Temporal landmarks genuinely help — and they also expire.** Dai, Milkman and Riis identified the **fresh start effect**: people begin aspirational behaviour at higher rates after landmark dates, because a landmark creates a break between the old self and the new one.
 
-Day 30 is a landmark, and you should use it deliberately. But know the other half: the effect fades. Motivation attached to a date decays as the date recedes, which is why January resolutions die in February. What survives a landmark is not the feeling it produced. It is whatever **structure** got installed while the feeling was available.
+Day 30 is a landmark and you should use it. But know the other half: the effect fades, which is why January resolutions die in February. What survives a landmark is not the feeling it produced. It is whatever **structure** got installed while the feeling was available.
 
 That is what these thirty days were for. Not to make you feel restored — you may or may not feel that this morning, and it does not matter as much as you think. They were for building the things that keep working on the days you feel nothing at all. Day 17 told you the truth about this in advance: doing it right will feel like nothing. If today feels quieter than you expected, that is not an anticlimax. That is the correct reading.
 
@@ -2850,7 +2846,7 @@ We have to handle this verse carefully, because it is the most abused verse in t
 
 *"Yahweh blessed the latter end of Job more than his beginning."*
 
-Read as a formula, it says: endure faithfully and you get it all back with interest. That reading is false, and — this is the important part — **the book of Job exists specifically to destroy it.** Job's friends spend thirty-five chapters arguing that outcomes track righteousness, and God's verdict on their theology at the end is that they have not spoken rightly of him. The one interpretation the book explicitly condemns is the transactional one.
+Read as a formula, it says: endure faithfully and you get it all back with interest. That reading is false, and **the book of Job exists specifically to destroy it.** Job's friends spend thirty-five chapters arguing that outcomes track righteousness, and God's verdict on their theology is that they have not spoken rightly of him. The one interpretation the book explicitly condemns is the transactional one.
 
 So this is not a promise that your capital returns. Nothing in this book has promised that, and nothing will.
 
@@ -2860,9 +2856,9 @@ Look at what Job actually receives before any of the restoration. In chapter 42,
 
 Notice also what is *not* restored. Job's children are not returned to him; new children are born. The book does not pretend the loss was undone. His latter end is greater, and the first end still happened, and Scripture leaves both standing without resolving them into a tidy lesson.
 
-That is a truthful account of what is in front of you. You may well end up with more than you had. Many traders in your position do, and the reason is not mystical: they come back with an honest process and no illusions, which is a serious edge over the man they used to be. And what you lost is still lost, and this month has not undone it, and the two facts will live alongside each other for the rest of your life.
+That is a truthful account of what is in front of you. You may well end up with more than you had — many traders in your position do, and the reason is not mystical: they come back with an honest process and no illusions, which is a serious edge over the man they used to be. And what you lost is still lost, and the two facts will live alongside each other for the rest of your life.
 
-What you have gained already, before any restoration, is firsthand knowledge — of your own machinery, of where you break, of what holds you up when your competence cannot. You did not have that in the years when everything was working. It could not have been given to you any other way, and you would not trade it back now even if the offer were made.
+What you have gained already, before any restoration, is firsthand knowledge — of your own machinery, of where you break, of what holds you up when your competence cannot. You did not have that in the years when everything was working, and it could not have been given to you any other way.
 
 ## The Meditation
 
@@ -2901,32 +2897,738 @@ Six lines:
 
 Then sign it. Then read it aloud to them, in your voice, standing up. All four conditions — written, effortful, public, freely chosen — and every one of them is load-bearing.
 
-Put it where the tick sheet is.
-
----
-
-## Day 31
-
-Tomorrow this book stops. Here is what does not.
-
-**The routine.** Five minutes, every trading morning, in the same order. Day 24. This is the one that carries the rest; if you keep only one thing, keep this.
-
-**The affirmations.** Appendix C collects all thirty on one page. Read them aloud, one movement per week, and rotate. Day 14 explains why the saying and not the believing is the mechanism.
-
-**The scorecard.** Every session, green or red per rule, money in a column that is not part of the score. Day 22 and Appendix B.
-
-**The report.** Weekly, to your witness. Same day for a broken rule. Day 29.
-
-**The gates.** Appendix A. Do not increase size early. The gates are the whole protocol; everything else is preparation for obeying them.
-
-And read this book again in ninety days. Not because you will have forgotten it — because you will read it as a different man, and the chapters that mattered least this month will be the ones that matter most then. Most people find Day 17 and Day 26 barely register on the first pass and become the two they need in month four.
-
-One last thing.
-
-Somewhere around Day 1 you had the thought that you had ruined your life, that the years were wasted, that you were a fraud who got found out. I asked you to hold it loosely for thirty days and look at it again today.
-
-Look at it now.
+Put it where the tick sheet is. Then turn the page, because tomorrow is Day 31 and it is the one this whole month was for.
 
 ## Carry This
 
 I did not get my old self back, and I was never going to; I got a better one, and it cost exactly what it cost.
+
+
+# Day 31
+
+This book stops here. Here is what does not.
+
+**The routine.** Five minutes, every trading morning, in the same order, before the phone. Day 24. This is the one that carries all the rest — if you keep only one thing, keep this.
+
+**The affirmations.** Appendix C collects all ninety on a few pages. Read one movement aloud each week and rotate. Day 14 explains why the saying rather than the believing is the mechanism.
+
+**The scorecard.** Every session: green or red against each rule, with money in a column that is not part of the score. Day 22 and Appendix B.
+
+**The report.** Weekly, to your witness. Same day for a broken rule, before you have a good explanation for it. Day 29.
+
+**The gates.** Appendix A. Do not increase size early. The gates are the whole protocol; everything else in this book was preparation for obeying them.
+
+---
+
+Read this again in ninety days.
+
+Not because you will have forgotten it. Because you will read it as a different man, and the chapters that barely registered this month will be the ones you need then. Day 17 and Day 26 are the usual pair — they mean almost nothing while the loss is fresh, and they are the two that decide whether a man is still doing this in year three.
+
+---
+
+One last thing.
+
+Somewhere around Day 1 you had a thought. That you had ruined your life. That the years were wasted. That you were, at bottom, a fraud who had finally been found out.
+
+I asked you to hold it loosely for thirty days — not to fight it and not to believe it — and to look at it again at the end.
+
+Look at it now.
+
+---
+
+*Yahweh bless you, and keep you. Yahweh make his face to shine on you, and be gracious to you. Yahweh lift up his face toward you, and give you peace.*
+
+*— Numbers 6:24–26*
+
+
+# Appendix A — The Graded Re-Entry Protocol
+
+This is the practical half of the book. It is kept out of the chapters on purpose: the thirty days are inner work, and mixing tactics into them turns a devotional into a manual and lets a reader do the easy half.
+
+**This is not financial advice.** It contains no view on what to trade, when, or with how much capital. It is a psychological risk-management framework built on one principle established on Day 21: *you are not trading for profit during the rebuild. You are trading for evidence.* Every rule below exists to make the evidence trustworthy.
+
+Adapt the numbers to your market, your timeframe and your circumstances. Do not adapt the structure.
+
+---
+
+## The principle
+
+Your self-trust was destroyed by evidence, and only evidence rebuilds it. Evidence is only produced by trades where following the rule was genuinely tested and you followed it anyway.
+
+Which gives the one question that sets everything below:
+
+**What is the largest size at which you would follow every rule, every time, on your worst day?**
+
+That is your starting size. Not what you can afford. Not what makes the loss back. The size at which your compliance is not in question.
+
+---
+
+## Phase 0 — Flat
+
+**Duration:** the thirty days of this book, minimum. Longer if you are still in the crisis territory described in the front matter.
+
+No positions. None. If you currently hold risk, reduce it to a level whose total loss would not change your week.
+
+This phase is not passive. It is where the account of Day 8, the rules of Day 15, the binding constraint of Day 16, the scorecard of Day 22 and the routine of Day 24 get built. Nothing below works without them.
+
+**Gate to Phase 1:** the covenant of Day 30 is written, signed, and read aloud to your witness. All six lines complete.
+
+---
+
+## Phase 1 — Simulation
+
+**Duration:** minimum twenty sessions, and minimum two weeks.
+
+Trade your actual method in a simulator or on paper, at the size you intend to return with — not at a fantasy size, because the psychology of an unreal number teaches nothing.
+
+Run the full apparatus every session: the morning routine, the journal entry before entry, the scorecard afterwards, the weekly report to your witness.
+
+Most traders dismiss this phase because sim "isn't real". That objection misunderstands what is being tested. You are not testing whether your edge works. You are testing whether **you execute a written process when nothing is at stake** — and a man who cannot do it in sim will certainly not do it with money.
+
+**Gate to Phase 2 — all four:**
+
+1. Twenty sessions logged with a process score at or above 90%.
+2. No single session below 70%.
+3. At least one genuine drawdown sequence survived — three or more consecutive losses — with the red-day protocol executed as written.
+4. Your witness confirms they received every weekly report, on time, without being chased.
+
+Note what is absent from those gates: profit. Sim profitability is not a criterion, because it is not evidence of the thing being tested.
+
+---
+
+## Phase 2 — Micro
+
+**Duration:** minimum forty sessions, and minimum eight weeks.
+
+Live capital, at the size from Day 21. It should feel almost embarrassing. That is the correct calibration: large enough that a real rule is really tested, small enough that a total loss is irrelevant to your life.
+
+**Fixed constraints for the whole phase:**
+
+- Size does not change. Not after a win, not after a loss, not after a good week. From Day 28: *these do not increase when I am winning.*
+- The stop is a resting order, entered at entry. Never watched, never mental.
+- A daily loss limit enforced by the platform, not by resolve. When it is hit, the platform locks you out.
+- One instrument, or at most two. Complexity is where the rules go to die.
+- Every trade journalled **before** entry, not after. A justification written afterwards is a story, not data.
+
+**Gate to Phase 3 — all five:**
+
+1. Forty sessions logged with a process score at or above 90%.
+2. No rule broken in the last twenty consecutive sessions. This one resets on any breach — a single break returns the counter to zero, and that is the point of it.
+3. A losing week survived without a size increase, an unplanned trade, or a day of silence to your witness.
+4. Your enough number and your risk ceiling written and unchanged since Day 28.
+5. You can state your edge in two sentences, and your journal shows you traded it rather than something adjacent to it.
+
+---
+
+## Phase 3 — Graded increase
+
+**The rule: size increases by no more than 25% at a time, and never more often than every twenty sessions.**
+
+Each increase requires the Phase 2 gates to be met again *at the new size*. A gate passed at one size does not transfer to the next; the whole point is that behaviour changes with size, and the increases are small so that you find out cheaply.
+
+**The ratchet works both ways.** Any of the following returns you to the previous size for a full twenty sessions:
+
+- Any broken rule.
+- A process score below 90% over ten sessions.
+- Two consecutive weekly reports missed.
+- Any concealment from your witness, of any size.
+
+That last one is not negotiable and it is not proportionate to the amount concealed. Day 29 explains why: the sequence that ends careers begins with a small thing that could not be reported.
+
+**Ceiling.** Whatever size you were running when you blew up is not a target to return to. If you reach it at all, it should be years from now and by a different route, and the enough number from Day 28 should have made the question less interesting than it currently seems.
+
+---
+
+## Hard stops — at every phase, permanently
+
+Any one of these ends the session immediately. Not reduces. Ends.
+
+- The daily loss limit is hit.
+- You take a trade that was not in your plan.
+- You move a stop against yourself. Once. Not twice.
+- You find yourself calculating what size would recover the day.
+- You have not slept — under six hours, or badly. Day 19 gave you the reason: risk appetite rises, loss registration dulls, and self-assessment does not move to warn you.
+- You are trading to feel something, or to stop feeling something.
+- You lie to, or withhold from, your witness.
+
+Write these on the same card as the red-day protocol.
+
+---
+
+## The timeline, honestly
+
+Phase 0 is thirty days. Phase 1 is two to four weeks. Phase 2 is eight to twelve weeks. Phase 3 runs for years.
+
+So: roughly four to six months before your size begins to move at all, and it moves slowly after that.
+
+That will read as intolerable, and the four-o'clock thought from Day 26 will tell you the slow version is not worth doing. Two things to hold against it. The habit research from Day 15 puts automaticity at a median of sixty-six days and often far longer — this timeline is not caution, it is the actual duration of the thing you are building. And the arithmetic from Day 26 is unforgiving: the highest-return decision available to you is not a better entry. It is never having another one of these.
+
+---
+
+## If you decide not to return
+
+It is a legitimate answer, and this book has never assumed otherwise.
+
+Some people finish these thirty days and recognise that the cost of this work to their health, their marriage or their soul was never repaid, and that the honest move is to take the skills elsewhere. That is not defeat and it is not the blow-up winning. It is the same clear-sightedness the rest of this book has been asking for, applied to the largest question rather than a small one.
+
+If that is where you have landed, work through Days 27 and 28 again. Everything in them holds. The identity was never the account, and the enough number was never the point.
+
+
+# Appendix B — The Rebuild Journal
+
+Four templates. Copy them by hand into a paper notebook — the copying is not wasted effort, and paper is harder to quietly stop using than an app.
+
+The rule that governs all four: **money is recorded and is never part of the score.**
+
+---
+
+## 1. The daily process scorecard
+
+One row per session. Fill it in at the close, before you look at anything else.
+
+| Field | Entry |
+|---|---|
+| Date | |
+| Routine completed in full, before the phone | Y / N |
+| Rule 1 — *if-then from Day 15* | Green / Red |
+| Rule 2 | Green / Red |
+| Rule 3 | Green / Red |
+| Stop entered as a resting order at every entry | Green / Red |
+| Daily loss limit respected | Green / Red |
+| Every trade journalled before entry | Green / Red |
+| **Process score** | ___ / 6 |
+| Hours slept | |
+| State before the open (1–5) | |
+| P&L — *recorded, not scored* | |
+
+**Reading it.** A session at 6/6 that lost money is a **good session**. Mark it as such and let yourself feel it. A session at 4/6 that made money is a **bad session**, and it is the more dangerous of the two, because it is training you — Day 22.
+
+Anything below 90% over ten sessions triggers the ratchet in Appendix A.
+
+---
+
+## 2. The pre-trade note
+
+Written **before** entry, every time. Four lines, thirty seconds. If you cannot write it in thirty seconds you do not have a trade, you have an urge.
+
+| Field | Entry |
+|---|---|
+| What I am seeing | |
+| Which of my setups this is | |
+| Where I am wrong, as a price | |
+| Size, and why it is that size | |
+
+If the "which setup" line is blank or reads *it just looks good*, the trade does not exist. Day 12: intuition is information, not instruction — and it only counts as expertise in the parts of your craft where feedback has been fast and unambiguous.
+
+---
+
+## 3. The loss autopsy
+
+Not for every loss. For any loss where a **rule was broken**, and for any red-day trigger.
+
+Complete within twenty-four hours, while the memory is accurate. Structure it exactly as the Day 8 account — the format is deliberate, and its purpose is to build a coherent narrative rather than to vent.
+
+**The facts.** Instrument, size, times, levels, what I did in sequence. No adjectives, no interpretation.
+
+**The conditions.** Sleep the night before. Time of day. What was happening in my life that week. Whether I was up or down going in. What had happened in the session immediately before.
+
+**What was mine.** The exact decision, and the exact rule it broke. What I told myself at the moment. When the argument for the exception first occurred to me — *and whether it occurred to me before I was in the position or only after* (Day 16).
+
+**What was not mine.** Genuinely. Conditions I could not have known. An account that takes on more blame than is true is as useless as one that takes on less.
+
+**The change.** One sentence. Either a new if-then rule, or a structural constraint that makes this specific failure impossible rather than merely discouraged. If you cannot name a change, the autopsy is not finished.
+
+**Reported to my witness on:** ______ *(date — and it should be the same day)*
+
+---
+
+## 4. The weekly review
+
+Twenty minutes, same time every week. This is the report you send to your witness from Day 29.
+
+| Field | Entry |
+|---|---|
+| Sessions this week | |
+| Average process score | |
+| Rules broken — how many, which | |
+| Consecutive clean sessions — *current count* | |
+| Red-day triggers hit, and whether the protocol was executed as written | |
+| Routine completed — days out of the week | |
+| Sleep — nights under six hours | |
+| P&L — *recorded, not scored* | |
+| One thing I did well that had nothing to do with the outcome | |
+| One thing I will change, as an if-then | |
+| Sent to my witness on | |
+
+**The last two lines are the review.** Everything above them is bookkeeping.
+
+And note the fourth row. The consecutive-clean counter is the single number that governs Appendix A, and it resets to zero on any breach. It should be the first thing you look at and the last thing you would ever be tempted to fudge — a number you have quietly rounded up is a number that is no longer measuring anything.
+
+---
+
+## The tick sheet
+
+Separate from all of the above, and it stays on a wall rather than in the notebook.
+
+Thirty rows for the thirty days of this book, then keep going — a row per day, indefinitely. One mark for the morning routine completed in full.
+
+Nothing else goes on it. No money, no scores, no notes. It exists for one purpose, and Day 17 explains it: your reward system will register nothing at all for reliable, correct, unremarkable execution, so you need something outside your own head that does.
+
+Look at it when the four-o'clock thought arrives.
+
+
+# Appendix C — The Thirty Affirmations
+
+All ninety, collected. This page is the reason the book does not end on Day 30.
+
+**How to use it.** Read one movement aloud each week and rotate — Ashes, Forge,
+Return, and back to the beginning. Say them out loud, in your own voice, where
+you can hear yourself. Day 14 explains why the saying rather than the believing
+is the mechanism, and why an affirmation your mind can refute will cost you
+rather than help you.
+
+Where a line is marked *[Name]*, use your own name. Day 13 explains why the
+pronoun is doing real work there.
+
+
+---
+
+## Movement I — The Ashes
+
+For the days when the loss is still fresh.
+
+
+### Day 1 — The Day the Number Died
+
+1. My pain is real, and it is not proof that I am weak.
+2. I am not required to be whole today to be held today.
+3. God is near to me in the wreckage, and I do not have to earn His nearness.
+
+
+### Day 2 — This Is Grief, Not Weakness
+
+1. My grief moves in waves, and the wave going out is not the wave lying to me.
+2. There is a season for this, and being in it does not mean I am failing at it.
+3. I will not draw a trend line through three days of my own heart.
+
+
+### Day 3 — Your Brain on Blow-Up
+
+1. My rules went offline that day, and I am rebuilding a mind that can reach them under pressure.
+2. I am not the wreckage of that hour; I am the one now speaking to my own soul.
+3. I do not have to feel hope to place my hope in God.
+
+
+### Day 4 — Stop Replaying the Tape
+
+1. I can think about what happened without living inside it.
+2. Replaying it is not the same as learning from it, and I am done confusing the two.
+3. God is making a way in this wilderness, and I intend to be facing forward when I see it.
+
+
+### Day 5 — Name It to Tame It
+
+1. I can name what I feel, and naming it makes it smaller, not larger.
+2. I do not have to edit myself before I bring myself to God.
+3. What I am carrying has a name, a size, and an end.
+
+
+### Day 6 — You Are Not the Loss
+
+1. I made a catastrophic mistake, and I am not a catastrophe.
+2. I will speak to myself in the voice I would use with someone I was responsible for.
+3. God has closed the court; I will not reopen it in my own head.
+
+
+### Day 7 — Forgiving the Trader You Were
+
+1. I take full responsibility for what I did, and I refuse the verdict that I am worthless for having done it.
+2. Shame tells me to hide; I am choosing to stay in the room.
+3. God does not minimise what I did, and He does not condemn who I am.
+
+
+### Day 8 — The Honest Ledger
+
+1. The truth about what I did cannot hurt me more than hiding from it already has.
+2. I can hold myself to account without putting myself on trial.
+3. What I confess honestly, God meets with mercy — and mercy is something I can stop defending.
+
+
+### Day 9 — Letting Go Is a Decision, Not a Feeling
+
+1. I do not have to feel free in order to move forward, and I am moving forward today.
+2. I can carry this and still do the next right thing.
+3. I press on before I have taken hold, because that is what pressing on means.
+
+
+### Day 10 — Bury It Properly
+
+1. This happened, it was as bad as I have said, and today it stops being an open wound and becomes a marked place.
+2. I did not choose the loss; I am choosing how it ends.
+3. God brought me up out of the riverbed, and I am stacking the stones to say so.
+
+
+---
+
+## Movement II — The Forge
+
+For the days when you are rebuilding the machinery.
+
+
+### Day 11 — You Are Not Finished
+
+1. I am not a fixed type; I am a set of habits, and habits are built and unbuilt by repetition.
+2. My brain changes with what I practise, so today I practise the thing I want to become.
+3. God is not finished with me, and He works by renewal rather than replacement.
+
+
+### Day 12 — The Fast Brain and the Slow Brain
+
+1. I feel fast and I act slow, and the space between the two is where my discipline lives.
+2. My instinct is information, not instruction.
+3. I am building a gate for a city that has walls worth defending.
+
+
+### Day 13 — Rewriting the Voice in Your Head
+
+1. "[Name], you are not finished; you are between two versions of yourself."
+2. My words are not a weather report on my life; they are one of the things making the weather.
+3. I speak accurately about myself, which means I speak neither cruelly nor falsely.
+
+
+### Day 14 — The Power of Words Spoken Out Loud
+
+1. What I most value about myself was never held in that account, and it did not go with it.
+2. I say what is true before I feel it, because the saying is how the feeling is built.
+3. God put the words in my mouth so that I would do them, and I intend to do them today.
+
+
+### Day 15 — Discipline Is a Habit Before It Is a Virtue
+
+1. I do not need more willpower; I need better-designed cues, and I am building them today.
+2. Discipline is something I train into my body, not something I summon in the moment.
+3. I run with aim, and I do not beat the air.
+
+
+### Day 16 — Rules Before Feelings
+
+1. I settle my rules when I am calm, and I do not reopen them when I am not.
+2. The version of me holding a loser does not get a vote on the size of the loss.
+3. I have purposed this in my heart, and it is not on today's agenda.
+
+
+### Day 17 — Small Wins and the Truth About Dopamine
+
+1. My brain rewards surprise, not progress, and I will not let it choose what my life is built on.
+2. Doing the ordinary thing correctly today is the whole of the work, and it counts.
+3. God does not despise the day of small things, and I will stop despising it.
+
+
+### Day 18 — Steady Under Fire
+
+1. I do not manage my feelings by hiding them; I change what the moment means before it takes hold of me.
+2. My breath is a lever I can reach when my reasoning is not available.
+3. The waters may roar, and I can be still in the middle of them, because God is not moved.
+
+
+### Day 19 — Endurance
+
+1. My recovery is not time away from the work; it is where the work becomes strength.
+2. I am building a trader who is still here in ten years, not one who is impressive this month.
+3. I wait on God for strength that is exchanged rather than extracted.
+
+
+### Day 20 — Toughness Is Not Hardness
+
+1. Real toughness is flexibility under load, not the refusal to feel the load.
+2. I can say "I am wrong" out loud, and it costs me nothing that matters.
+3. My strength is not the thing holding me up, which is exactly why I can admit its limits.
+
+
+---
+
+## Movement III — The Return
+
+For the days when you are back at the desk.
+
+
+### Day 21 — Trust Rebuilt in Tiny Deposits
+
+1. I rebuild trust in myself with evidence, and evidence is only made one small kept promise at a time.
+2. I am not trading to make it back; I am trading to prove I can be trusted with it.
+3. What I do faithfully in a very little is not practice for the real thing — it is the real thing.
+
+
+### Day 22 — Judge the Decision, Not the Result
+
+1. I am responsible for my decisions and I am not the author of my outcomes.
+2. A losing session in which I kept every rule is a session I won.
+3. My work is witnessed on the days nobody sees it, and that is enough.
+
+
+### Day 23 — Seeing It Before It Happens
+
+1. I rehearse the moment it gets hard, not the moment it pays off.
+2. My imagination is a tool I own, and I have stopped letting it run the wrong film at night.
+3. The vision is for an appointed time, and waiting for it is part of holding it.
+
+
+### Day 24 — The Ritual Before the Bell
+
+1. I do not walk into the session; I arrive prepared, and the preparation is a thing I control completely.
+2. Whoever reaches me first sets my state, and I have decided who that is.
+3. In the morning I lay it out in order, and then I watch expectantly.
+
+
+### Day 25 — When the Next Loss Comes
+
+1. A losing day is a component of my process, not a verdict on it.
+2. When I fall, I rise the same day — the rising is the discipline, not the not-falling.
+3. I have already decided what the red day means, and it does not get to tell me anything new.
+
+
+### Day 26 — The Long Game
+
+1. I gather by hand, and what is gathered by hand is what stays.
+2. My sense that this is too slow is a wound, not a calculation.
+3. The most profitable thing I will do this decade is never have another one of these.
+
+
+### Day 27 — Who You Are Now
+
+1. I am not what my account says I am, and I never was — I simply could not tell while it was winning.
+2. I am a man who keeps his rules, and every session is a vote for that man.
+3. In Christ I am a new creation, and that was given to me rather than earned by me.
+
+
+### Day 28 — Money, Motive, and the Soul
+
+1. Money is a tool I use, and it is not the thing I am trying to become.
+2. I decide what enough is with words, because my brain will never tell me.
+3. Contentment is gain, and it is the only gain that cannot be given back.
+
+
+### Day 29 — Do Not Rebuild Alone
+
+1. A rule with a witness is a rule; a rule without one is a preference.
+2. I refuse to be the man who hides a loss until it is large enough to end him.
+3. I am one strand of three, and that is stronger than being the strongest strand alone.
+
+
+### Day 30 — The Comeback Covenant
+
+1. I lost a great deal, and I gained something in the losing that I could not have been given any other way.
+2. I am not the man who blew up; I am the man who rebuilt, and I have thirty days of evidence.
+3. My latter end will be greater than my beginning, and I will not demand that it arrive on my schedule.
+
+
+# Appendix D — Scripture Index by Struggle
+
+For the day when you cannot face a whole chapter and need one verse and one direction. Each entry names the day that unpacks it.
+
+---
+
+## When the pain is physical and you cannot think straight
+
+> Yahweh is near to those who have a broken heart, and saves those who have a crushed spirit. — **Psalm 34:18** · *Day 1*
+
+> Why are you in despair, my soul? … Hope in God! — **Psalm 42:11** · *Day 3*
+
+> Be still, and know that I am God. — **Psalm 46:10** · *Day 18*
+
+---
+
+## When you are ashamed and want to disappear
+
+> There is therefore now no condemnation to those who are in Christ Jesus. — **Romans 8:1** · *Day 6*
+
+> Though your sins are as scarlet, they shall be as white as snow. — **Isaiah 1:18** · *Day 7*
+
+> He who conceals his sins doesn't prosper, but whoever confesses and renounces them finds mercy. — **Proverbs 28:13** · *Day 8*
+
+---
+
+## When you cannot stop replaying it
+
+> Don't remember the former things … Behold, I will do a new thing. It springs out now. — **Isaiah 43:18–19** · *Day 4*
+
+> Forgetting the things which are behind and stretching forward to the things which are ahead, I press on. — **Philippians 3:13–14** · *Day 9*
+
+---
+
+## When you cannot say how bad it is
+
+> Pour out your heart before him. God is a refuge for us. — **Psalm 62:8** · *Day 5*
+
+> A time to weep, and a time to laugh; a time to mourn, and a time to dance. — **Ecclesiastes 3:4** · *Day 2*
+
+---
+
+## When you believe you are finished
+
+> Be transformed by the renewing of your mind. — **Romans 12:2** · *Day 11*
+
+> If anyone is in Christ, he is a new creation. The old things have passed away. — **2 Corinthians 5:17** · *Day 27*
+
+> A righteous man falls seven times and rises up again. — **Proverbs 24:16** · *Day 25*
+
+---
+
+## When the discipline will not hold
+
+> Daniel purposed in his heart that he would not defile himself. — **Daniel 1:8** · *Day 16*
+
+> I run like that, not aimlessly. I fight like that, not beating the air. — **1 Corinthians 9:26** · *Day 15*
+
+> Let every man be swift to hear, slow to speak, and slow to anger. — **James 1:19** · *Day 12*
+
+---
+
+## When the words in your head are cruel
+
+> Death and life are in the power of the tongue. — **Proverbs 18:21** · *Day 13*
+
+> This book of the law shall not depart out of your mouth. — **Joshua 1:8** · *Day 14*
+
+---
+
+## When it feels too small and too slow
+
+> For who has despised the day of small things? — **Zechariah 4:10** · *Day 17*
+
+> He who is faithful in a very little is faithful also in much. — **Luke 16:10** · *Day 21*
+
+> Wealth gotten by vanity dwindles away, but he who gathers by hand makes it grow. — **Proverbs 13:11** · *Day 26*
+
+> Though it takes time, wait for it, because it will surely come. — **Habakkuk 2:3** · *Day 23*
+
+---
+
+## When you are exhausted
+
+> Those who wait for Yahweh will renew their strength … They will walk, and not faint. — **Isaiah 40:31** · *Day 19*
+
+> My grace is sufficient for you, for my power is made perfect in weakness. — **2 Corinthians 12:9** · *Day 20*
+
+---
+
+## When nobody sees the work
+
+> Whatever you do, work heartily, as for the Lord and not for men. — **Colossians 3:23** · *Day 22*
+
+> In the morning I will lay my requests before you, and will watch expectantly. — **Psalm 5:3** · *Day 24*
+
+---
+
+## When you want more than you need
+
+> Those who are determined to be rich fall into a temptation, a snare … godliness with contentment is great gain. — **1 Timothy 6:6, 9** · *Day 28*
+
+---
+
+## When you are carrying it alone
+
+> Two are better than one … woe to him who is alone when he falls. — **Ecclesiastes 4:9–10** · *Day 29*
+
+> Take up twelve stones … that this may be a sign among you. — **Joshua 4:3, 6** · *Day 10*
+
+---
+
+## When you need to believe there is an afterwards
+
+> So Yahweh blessed the latter end of Job more than his beginning. — **Job 42:12** · *Day 30*
+
+Read Day 30 before you read that verse alone. It is the most misused sentence in Scripture for a person in your position, and the book it comes from exists to refute the reading you will be tempted to give it.
+
+
+# Appendix E — Notes and Sources
+
+Every psychological claim in this book is tied to published work, and this appendix is where that is checkable. It exists as an accountability mechanism: a chapter that could not name its source did not go in.
+
+Two honest cautions before the list.
+
+**Effect sizes are smaller than popular accounts suggest.** Much of the psychology of the last two decades has been through a replication reckoning. Where a finding is contested, the chapter says so in the chapter rather than burying it here — see Days 16, 20 and 26 in particular.
+
+**A named study is not a promise.** These are population-level findings about how minds generally behave. None of them predicts what will happen to you, and none constitutes financial advice.
+
+---
+
+## Movement I — The Ashes
+
+**Day 1 — Loss aversion and the pain of loss.** Kahneman & Tversky, "Prospect Theory," *Econometrica* (1979). Amygdala damage abolishing loss aversion: De Martino, Camerer & Adolphs, *PNAS* (2010). Overlap of social pain and physical pain: Eisenberger, Lieberman & Williams, *Science* (2003). *Caveat:* the strength of the pain-overlap claim is debated — later multivariate work (Woo, Wager and colleagues) finds physical and social pain are separable at finer resolution. The chapter's claim is that shared circuitry is engaged, not that they are the same experience.
+
+**Day 2 — Grief does not proceed in stages.** Maciejewski, Zhang, Block & Prigerson, *JAMA* (2007), the empirical test of stage theory. The dual process model: Stroebe & Schut, *Death Studies* (1999).
+
+**Day 3 — Stress moves control from the thinking brain to the habit brain.** Arnsten, "Stress signalling pathways that impair prefrontal cortex structure and function," *Nature Reviews Neuroscience* (2009). Schwabe & Wolf, "Stress prompts habit behavior in humans," *Journal of Neuroscience* (2009).
+
+**Day 4 — Rumination.** Nolen-Hoeksema's programme, summarised in Nolen-Hoeksema, Wisco & Lyubomirsky, "Rethinking Rumination," *Perspectives on Psychological Science* (2008); impaired problem-solving in Lyubomirsky & Nolen-Hoeksema (1995). On counterfactuals and regret: Kahneman & Miller's norm theory (1986); Medvec, Madey & Gilovich on Olympic medallists, *JPSP* (1995).
+
+**Day 5 — Affect labelling.** Lieberman et al., "Putting Feelings Into Words," *Psychological Science* (2007). On emotion differentiation and coping: Kashdan, Barrett & McKnight, *Current Directions in Psychological Science* (2015).
+
+**Day 6 — Self-compassion.** Breines & Chen, "Self-compassion increases self-improvement motivation," *Personality and Social Psychology Bulletin* (2012). Neff's conceptualisation and measurement: *Self and Identity* (2003); on the distinction from self-esteem, Neff & Vonk, *Journal of Personality* (2009).
+
+**Day 7 — Shame and guilt.** Tangney & Dearing, *Shame and Guilt* (2002); Tangney, Stuewig & Mashek, *Annual Review of Psychology* (2007). Shame predicting recidivism and guilt predicting desistance: Tangney, Stuewig & Martinez, *Psychological Science* (2014).
+
+**Day 8 — Expressive writing.** Pennebaker & Beall, *Journal of Abnormal Psychology* (1986). Re-employment among laid-off engineers: Spera, Buhrfeind & Pennebaker, *Academy of Management Journal* (1994). Narrative coherence and causal-word use as the mechanism: Pennebaker, Mayne & Francis, *JPSP* (1997). *Caveat:* Frattaroli's meta-analysis (*Psychological Bulletin*, 2006) finds the average effect real but modest, and smaller than the best-known individual studies suggest.
+
+**Day 9 — Suppression rebound and acceptance.** Wegner, Schneider, Carter & White, "Paradoxical effects of thought suppression," *JPSP* (1987). Psychological flexibility and experiential avoidance: Hayes, Luoma, Bond, Masuda & Lillis, *Behaviour Research and Therapy* (2006).
+
+**Day 10 — Rituals.** Norton & Gino, "Rituals alleviate grieving for loved ones, lovers, and lotteries," *Journal of Experimental Psychology: General* (2014). On memory becoming labile when retrieved: Nader, Schafe & LeDoux, *Nature* (2000).
+
+---
+
+## Movement II — The Forge
+
+**Day 11 — Neuroplasticity.** Merzenich and colleagues' cortical remapping work from the 1980s. Structural change with expertise: Maguire et al. on London taxi drivers, *PNAS* (2000); Draganski et al. on juggling, *Nature* (2004). The firing-and-wiring principle originates with Hebb, *The Organization of Behavior* (1949).
+
+**Day 12 — Two systems, and when intuition can be trusted.** Kahneman, *Thinking, Fast and Slow* (2011). The conditions for valid expert intuition: Kahneman & Klein, "Conditions for Intuitive Expertise: A Failure to Disagree," *American Psychologist* (2009). *Caveat:* the strict two-systems architecture is a simplification and is criticised as such by many researchers; it is used here as a working model, which is how Kahneman himself presents it.
+
+**Day 13 — Restructuring and distanced self-talk.** Beck's cognitive model and its distortion taxonomy. Kross et al., "Self-talk as a regulatory mechanism: How you do it matters," *JPSP* (2014); Grossmann & Kross on Solomon's paradox, *Psychological Science* (2014); Moser et al., *Scientific Reports* (2017), on the low-effort neural signature.
+
+**Day 14 — Self-affirmation.** Steele, "The Psychology of Self-Affirmation," *Advances in Experimental Social Psychology* (1988); reviewed in Cohen & Sherman, *Annual Review of Psychology* (2014). Field effects on achievement: Cohen, Garcia, Apfel & Master, *Science* (2006), with follow-up in *Science* (2009). Neural correlates and future orientation: Cascio et al., *Social Cognitive and Affective Neuroscience* (2016). **The counter-finding that shapes this book's affirmations:** Wood, Perunovic & Lee, "Positive Self-Statements: Power for Some, Peril for Others," *Psychological Science* (2009). The production effect in memory: MacLeod and colleagues (2010 onward). Self-talk in sport: Hatzigeorgiadis, Zourbanos, Galanis & Theodorakis, meta-analysis, *Perspectives on Psychological Science* (2011).
+
+**Day 15 — Implementation intentions and habit.** Gollwitzer, *American Psychologist* (1999); meta-analysis in Gollwitzer & Sheeran, *Advances in Experimental Social Psychology* (2006). Habit chunking in the basal ganglia: Graybiel, *Annual Review of Neuroscience* (2008). Time to automaticity — median 66 days, range 18 to 254: Lally, van Jaarsveld, Potts & Wardle, *European Journal of Social Psychology* (2010). The widely repeated "21 days" has no research behind it; it derives from a surgeon's clinical impression in a 1960 self-help book.
+
+**Day 16 — Ego depletion, and what replaced it.** The failed multi-lab replications: Hagger et al., *Perspectives on Psychological Science* (2016), and Vohs et al. (2021). What high self-control people actually do: Galla & Duckworth, "More than resisting temptation," *JPSP* (2015); Milyavskaya & Inzlicht, *Social Psychological and Personality Science* (2017). Precommitment: Schelling's work on self-command, and Ariely & Wertenbroch, *Psychological Science* (2002).
+
+**Day 17 — Reward prediction error and small wins.** Schultz, Dayan & Montague, "A Neural Substrate of Prediction and Reward," *Science* (1997). On wanting versus liking: Berridge & Robinson. The progress principle, from roughly 12,000 daily diary entries: Amabile & Kramer, *The Progress Principle* (2011), and *Harvard Business Review* (2011).
+
+**Day 18 — Reappraisal, suppression and the breath.** Gross's process model, *Psychophysiology* (2002); individual differences in Gross & John, *JPSP* (2003). Suppression's memory cost: Richards & Gross, *JPSP* (2000). Its interpersonal cost: Butler et al., *Emotion* (2003). Breathwork trial comparing cyclic sighing with mindfulness meditation: Balban et al., *Cell Reports Medicine* (2023).
+
+**Day 19 — Inoculation, sleep and risk.** Meichenbaum's stress inoculation training (1985 onward). Sleep deprivation shifting economic preference toward risk: Venkatraman, Chuah, Huettel & Chee, *SLEEP* (2007) and Venkatraman et al., *Journal of Neuroscience* (2011). Sleep and memory consolidation: Diekelmann & Born, *Nature Reviews Neuroscience* (2010).
+
+**Day 20 — Grit, and a better definition of toughness.** Duckworth, Peterson, Matthews & Kelly, *JPSP* (2007). The corrective meta-analysis: Credé, Tynan & Harms, "Much Ado about Grit," *JPSP* (2017). The reframing of toughness as flexibility: Magness, *Do Hard Things* (2022).
+
+---
+
+## Movement III — The Return
+
+**Day 21 — Self-efficacy.** Bandura, "Self-efficacy: Toward a unifying theory of behavioral change," *Psychological Review* (1977), and *Self-Efficacy: The Exercise of Control* (1997). The ranking of the four sources, with mastery experience first, is Bandura's.
+
+**Day 22 — Outcome bias.** Baron & Hershey, "Outcome bias in decision evaluation," *JPSP* (1988). The term *resulting* and its application to decision-making under uncertainty: Duke, *Thinking in Bets* (2018).
+
+**Day 23 — Imagery and mental contrasting.** Meta-analysis of mental practice: Driskell, Copper & Moran, *Journal of Applied Psychology* (1994). Imagery quality and the PETTLEP framework: Holmes & Collins (2001). **The finding that positive fantasy reduces effort:** Oettingen & Mayer, *JPSP* (2002); Kappes & Oettingen, *Journal of Experimental Social Psychology* (2011). Mental contrasting and WOOP: Oettingen, *Rethinking Positive Thinking* (2014).
+
+**Day 24 — Pre-performance routines.** Reviewed in Cotterill, *International Review of Sport and Exercise Psychology* (2010).
+
+**Day 25 — Inoculation and the abstinence violation effect.** Meichenbaum, as above. The interpretation of a lapse as the predictor of full relapse: Marlatt & Gordon, *Relapse Prevention* (1985).
+
+**Day 26 — Delay of gratification is a trust judgement.** Mischel, Shoda & Rodriguez, *Science* (1989). **The correction that matters:** Kidd, Palmeri & Aslin, "Rational snacking," *Cognition* (2013), showing delay collapses when the environment has proved unreliable. See also Watts, Duncan & Quan, *Psychological Science* (2018), a conceptual replication finding much smaller long-run associations once background is controlled. Underestimation of exponential growth: Wagenaar & Sagaria (1975); Stango & Zinman, *Journal of Finance* (2009).
+
+**Day 27 — Identity-based motivation.** Oyserman's programme, including the finding that difficulty is read as meaning "not for me" when an action feels identity-incongruent. Possible selves: Markus & Nurius, *American Psychologist* (1986). The framing of each action as a vote for an identity is drawn from Clear, *Atomic Habits* (2018).
+
+**Day 28 — Adaptation, sufficiency and gambling overlap.** Hedonic adaptation: Brickman, Coates & Janoff-Bulman, *JPSP* (1978). On income and wellbeing, the chapter deliberately reports the revised picture: Kahneman & Deaton, *PNAS* (2010), Killingsworth, *PNAS* (2021), and the adversarial collaboration of Killingsworth, Kahneman & Mellers, *PNAS* (2023). Overlap between speculative trading and gambling disorder: Grall-Bronnec et al., systematic review, *Journal of Behavioral Addictions* (2017); Mosenhauer, Newall & Walasek, *Journal of Behavioral Addictions* (2021).
+
+**Day 29 — Relationships, observation and secrecy.** Holt-Lunstad, Smith & Layton, "Social Relationships and Mortality Risk," *PLoS Medicine* (2010), pooling 148 studies. Being watched and honesty: Bateson, Nettle & Roberts, *Biology Letters* (2006) — *caveat:* the watching-eyes effect has replicated inconsistently and later meta-analyses find it weak or absent for generosity, so the chapter rests the claim on accountability rather than on cues alone. The cognitive burden of secrecy: Slepian, Chun & Mason, *JPSP* (2017).
+
+**Day 30 — Commitment and fresh starts.** Commitment and consistency, including the conditions that make a commitment bind: Cialdini, *Influence* (1984 onward). The fresh start effect: Dai, Milkman & Riis, *Management Science* (2014).
+
+---
+
+## On the Scripture
+
+Verses are from the **World English Bible**, a public-domain modern-English revision of the American Standard Version. Where the King James rendering is better known, that is noted at the verse.
+
+Interpretive claims about Hebrew and Greek terms — *hagah* in Joshua 1:8, *harpu* in Psalm 46:10, *metamorphousthe* in Romans 12:2, *enkrateia* in 1 Corinthians 9, *ek psychēs* in Colossians 3:23 — follow standard lexical sources and mainstream commentary. Nothing in this book depends on a contested translation.
+
+Two places take a deliberate position against a common reading, and both say so in the chapter. Day 13 does **not** claim that speech alters markets; the claim is confined to what a person's words do to the speaker. Day 30 rejects the transactional reading of Job 42:12, on the grounds that the book of Job exists to refute exactly that reading.
